@@ -1,0 +1,4 @@
+stochasticinventory
+===================
+
+Stochastic Inventory Algorithms
